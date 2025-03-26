@@ -1,7 +1,7 @@
 from operator import add, sub
 
 def a_plus_abs_b(a, b):
-    """Return a+abs(b), but without calling abs.
+    """Return a+abs(b), but without calling abs function.
 
     >>> a_plus_abs_b(2, 3)
     5
